@@ -1,4 +1,4 @@
-# XNatureV2 Test
+# XNatureV2 Classifier
 
 This is a test made using the XNatureV2 Dataset by othmane on Kaggle (https://www.kaggle.com/marfoq96othmane/xnaturev2/data)
 
